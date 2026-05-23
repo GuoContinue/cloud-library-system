@@ -18,7 +18,9 @@
 
 ## 快速开始
 
-直接在浏览器中打开 [index.html](index.html) 即可使用。
+在线体验：[cloud-library-system](https://GuoContinue.github.io/cloud-library-system/)
+
+本地使用：直接在浏览器中打开 [index.html](index.html) 即可。
 
 ## 项目结构
 
